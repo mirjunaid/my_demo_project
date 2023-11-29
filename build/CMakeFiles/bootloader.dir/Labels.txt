@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/junaid/Practice Code/my_demo_project/build/CMakeFiles/bootloader
+/home/junaid/Practice Code/my_demo_project/build/CMakeFiles/bootloader.rule
+/home/junaid/Practice Code/my_demo_project/build/CMakeFiles/bootloader-complete.rule
+/home/junaid/Practice Code/my_demo_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/junaid/Practice Code/my_demo_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/junaid/Practice Code/my_demo_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/junaid/Practice Code/my_demo_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/junaid/Practice Code/my_demo_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/junaid/Practice Code/my_demo_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/junaid/Practice Code/my_demo_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
