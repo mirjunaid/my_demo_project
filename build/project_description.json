@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "my_demo_project",
-    "project_version":    "1",
+    "project_version":    "99be551-dirty",
     "project_path":       "/home/junaid/Practice Code/my_demo_project",
     "idf_path":           "/home/junaid/esp/esp-idf",
     "build_dir":          "/home/junaid/Practice Code/my_demo_project/build",
